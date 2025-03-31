@@ -29,8 +29,8 @@ I am a passionate **frontend developer** with expertise in **HTML, CSS, Bootstra
 ---
 
 ### 📫 **Connect with Me**
-💼 **LinkedIn:** [Your LinkedIn Profile](#)  
-📧 **Email:** your-email@example.com  
+💼 **LinkedIn:** [Vikas Jaiswal](https://www.linkedin.com/in/vikasjaiswal18/)  
+📧 **Email:** dev.vikasjaiswal@gmail.com  
 🔗 **Portfolio:** [Coming Soon]
 
 ---
@@ -38,4 +38,3 @@ I am a passionate **frontend developer** with expertise in **HTML, CSS, Bootstra
 ⭐ **Fun Fact:** I love to chant the name of my Ishta **Swami Shri Haridas Ji Maharaj** and believe in the divine service of **Shri Radha Krishna**. 🙏
 
 💻 Always open to new opportunities in **Frontend Development**!
-ok 
